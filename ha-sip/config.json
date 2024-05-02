@@ -1,7 +1,7 @@
 {
-    "name": "ha-sip",
-    "version": "3.7",
-    "slug": "ha-sip",
+    "name": "ha-sip-test",
+    "version": "3.7.b",
+    "slug": "ha-sip-test",
     "url": "https://github.com/arnonym/ha-plugins",
     "description": "Home-Assistant SIP Gateway",
     "arch": [

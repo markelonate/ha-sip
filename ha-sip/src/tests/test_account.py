@@ -2,6 +2,7 @@ import unittest
 from account import Account
 
 
+
 class AccountTest(unittest.TestCase):
     def test_is_number_in_list(self):
         self.assertEqual(Account.is_number_in_list(None, ["12345"]), False)
